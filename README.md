@@ -1,6 +1,8 @@
 # Project Images
 
 ![Alt text](https://github.com/Gabriel-B12/KeyMart-React-app-/blob/main/img/Shot%200010.png)
+![Alt text](https://github.com/Gabriel-B12/KeyMart-React-app-/blob/main/img/Shot%200009.png)
+![Alt text](https://github.com/Gabriel-B12/KeyMart-React-app-/blob/main/img/Shot%200011.png)
 
 # Getting Started with Create React App
 
