@@ -1,5 +1,6 @@
-#Project Images
-![Alt text](/img/shot 0010.png?raw=true "Optional Title")
+# Project Images
+
+![Alt text](https://github.com/Gabriel-B12/KeyMart-React-app-/blob/main/img/Shot%200010.png)
 
 # Getting Started with Create React App
 
